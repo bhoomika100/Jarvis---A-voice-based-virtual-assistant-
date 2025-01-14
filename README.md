@@ -12,7 +12,7 @@ Python 3.x
 pip (Python package installer)
 Steps
 Clone the repository:
-git clone https://github.com/bhoomika100/Jarvis---A-voice-based-virtual-assistant-/edit/main/README.md
+git clone https://github.com/bhoomika100/Jarvis---A-voice-based-virtual-assistant-
 Navigate to the project directory:
 cd jarvis
 Create a virtual environment:
